@@ -1,0 +1,16 @@
+[
+{
+  "modid": "flom",
+  "name": "Lights On",
+  "description": "Lots of light sources",
+  "version": "0.1",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["filleadh"],
+  "credits": "Thorgal for inspiration, Aaron D Graphics, Jon G moral support",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
